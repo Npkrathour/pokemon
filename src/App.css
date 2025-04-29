@@ -1,0 +1,8 @@
+h1, h2, h3, h5, h6, Link, p, option{
+    font-family: "Inter", sans-serif;
+}
+::placeholder{
+    font-family: "Inter", sans-serif;
+}
+
+
